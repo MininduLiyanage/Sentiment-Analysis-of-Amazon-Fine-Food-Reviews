@@ -10,4 +10,4 @@ The goal is to analyze the sentiment expressed in the reviews and evaluate the p
 
 ## Dataset
 
-Amazon Fine Food Review dataset from Kaggle
+The Amazon Fine Food Review dataset from Kaggle
